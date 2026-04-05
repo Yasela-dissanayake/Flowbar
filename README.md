@@ -52,3 +52,4 @@ The compiled installation files will be generated inside the `/release` director
 This wrapper natively implements Electron's `session.fromPartition` API prior to navigation. Your custom websites operate outside of the default anonymous partition, meaning you'll stay logged into your custom tools permanently without tracking crossing over. Removing a custom app triggers `.clearStorageData()` in the main process, instantly vaporizing the app footprint.
 # Flowbar
 # Flowbar
+# Flowbar
